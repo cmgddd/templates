@@ -1,0 +1,12 @@
+[{
+    "type": "container",
+    "title": "Node",
+    "description": "Nodejs server",
+    "categories": [
+      "webserver"
+    ],
+    "platform": "linux",
+    "logo": "https://hub.docker.com/public/images/official/node.png",
+    "image": "node:latest"
+  }
+]
